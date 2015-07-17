@@ -24,5 +24,6 @@ C. For any speaking slots awarded from an open CFP.
   1. we will indicate the judging and qualifying criteria
   2. we will publish the titles of unsuccessful talks
   3. we will indicate the ratio of international and local (e.g. 2 hours travel) speakers
+  4. We will indicate acceptance within a reasonable timeframe (i.e. inform all speakers at least 4 weeks prior to the event)
 
 D. During the conference we shall ensure a safe and threat-free environment, following our code of conduct.
