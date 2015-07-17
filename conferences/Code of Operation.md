@@ -2,7 +2,7 @@
 
 A conference should enable the industry to come together to learn from talks, see new products, network, and encourage growth at both a business and personal level. It shouldn't be a series of glorified sales pitches! Therefore, we, the conference organizers use this document to indicate our objectives clearly and transparently to the community. (We have deleted parts from the original document where not applicable.)
 
-See the original from https://github.com/MarquisdeGeek/community/conferences
+See the original from https://github.com/MarquisdeGeek/community
 
 ## Operations
 

@@ -2,7 +2,7 @@
 
 A hackathon should not be a byword or excuse to garner free work or R&D from unpaid developers! Therefore, we, the hackathon organizers, aim to help attendees grow their skills base, work with others, and get involved with the community. We want to do this in a way that is transparent to the developer community, and so offer this as our code of operation. (We have deleted parts from the original document where not applicable.)
 
-See the original from https://github.com/MarquisdeGeek/community/hackathons
+See the original from https://github.com/MarquisdeGeek/community
 
 ## Operations
 
