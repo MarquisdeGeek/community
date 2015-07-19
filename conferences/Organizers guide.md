@@ -22,5 +22,6 @@ C. Slots from open CFP
  1. Jugding criteria should be stated in advance
  2. If the speakers allow it, include their names and abstracts, too.
  3. Show for both failed submissions, and successful speakers. This will also help attract internaional talent at future events.
+ 4. If possible indicate a line in the CFP saying "all successful speakers will be contacted by DATE". If not possible (because of overwhelming demand, etc) then give relative time lines.
 
 D. If you don't have code of conduct, please consider using http://confcodeofconduct.com/
